@@ -1,3 +1,5 @@
+# Conway's Game of Life
+
 Conway's game of life is a cellular automation created by John Conway. It is a zero player game, which means the evolution is determined by its initial state, no further input is required. The game is built on a grid of nine squares, every cell has 8 neighbouring cells
 
 
